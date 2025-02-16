@@ -1,7 +1,7 @@
 # Code Review Web Application 📝🚀
 
 ## Overview
-The **Code Review Web Application** is a **full-stack** MERN (MongoDB, Express.js, React.js, Node.js) application that enables developers to **submit, review, and provide feedback** on code snippets. It streamlines collaboration by allowing users to post their code, receive comments, and suggest improvements.
+The **Code Review Web Application** is a **full-stack** MERN ( Express.js, React.js, Node.js) application that enables developers to **submit, review, and provide feedback** on code snippets. It streamlines collaboration by allowing users to post their code, receive comments, and suggest improvements.
 
 ## Features 🌟
 - 📝 **Code Submission** - Users can submit their code for review.
